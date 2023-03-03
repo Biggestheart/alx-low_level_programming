@@ -1,5 +1,5 @@
 
-# ALX LOW LEVEL PROGRAMMING
+## ALX LOW LEVEL PROGRAMMING
 
 ![undraw_coding_re_iv62.svg](https://user-images.githubusercontent.com/110098940/219949766-01d150a7-a2cf-454d-958a-d61fe3ee7110.png)
 This repository contains programs created for the _**ALX Software Engineering** Programs._ Currently sharpening my knowledge and skills of C, Linux, Algorithms and Data Structures. This repository contains programs written for the low-level programming and algorithm track in the ALX Software Engineering Program. In these projects I learned about data structures, algorithms, and other low-level programming concepts while working in the C programming language. The following are a specific list of projects :
@@ -9,6 +9,7 @@ This repository contains programs created for the _**ALX Software Engineering** 
 - [0x02-functions_nested_loops](https://github.com/Biggestheart/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
 - [0x03-debugging](https://github.com/Biggestheart/alx-low_level_programming/tree/master/0x03-debugging)
 - [0x04-more_functions_nested_loops](https://github.com/Biggestheart/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
+- [0x05-pointers_arrays_strings](https://github.com/Biggestheart/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 
 ### Files
 
