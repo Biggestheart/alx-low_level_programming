@@ -12,6 +12,8 @@ This repository contains programs created for the _**ALX Software Engineering** 
 - [0x05-pointers_arrays_strings](https://github.com/Biggestheart/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 - [0x06-pointers_arrays_strings](https://github.com/Biggestheart/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
 - [0x07-pointers_arrays_strings](https://github.com/Biggestheart/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
+- [0x08-recursion] (https://github.com/Biggestheart/alx-low_level_programming/tree/master/0x08-recursion)
+- [0x09-static_libraries] (https://github.com/Biggestheart/alx-low_level_programming/tree/master/0x09-static_libraries)
 
 
 ### Files
