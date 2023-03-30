@@ -1,6 +1,6 @@
 /*
  * File: 0-print_list.c
- * Auth: David James Taiye
+ * Auth: Anietie Law. Essien
  */
 
 #include "lists.h"
