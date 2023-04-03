@@ -2,7 +2,7 @@
 
 /**
  * print_listint - prints all the elements of a list.
- * @h: head of a list.
+ * @h: head of a main.
  *
  * Return: numbers of nodes.
  */
