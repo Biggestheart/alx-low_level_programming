@@ -1,3 +1,7 @@
+/*
+ * File: 2-add_nodeint.c
+ * Auth: Essien Anietie Lawrence
+ */
 #include "lists.h"
 
 /**
