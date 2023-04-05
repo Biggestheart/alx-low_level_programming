@@ -1,3 +1,7 @@
+/*
+ * File: 6-pop_listint.c
+ * Auth: Essien Anietie Lawrence
+ */
 #include "lists.h"
 
 /**
