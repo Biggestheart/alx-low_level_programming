@@ -1,3 +1,7 @@
+/*
+ * File: 100-reverse_listint.c
+ * Auth: Essien Anietie Lawrence
+ */
 #include "lists.h"
 
 /**
