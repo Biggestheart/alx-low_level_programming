@@ -1,3 +1,7 @@
+/*
+ * File: 103-find_loop.c
+ * Auth: Essien Anietie Lawrence
+ */
 #include "lists.h"
 
 /**
