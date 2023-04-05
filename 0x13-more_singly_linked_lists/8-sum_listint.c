@@ -1,3 +1,7 @@
+/*
+ * File: 8-sum_listint.c
+ * Auth: Essien Anietie Lawrence
+ */
 #include "lists.h"
 
 /**
