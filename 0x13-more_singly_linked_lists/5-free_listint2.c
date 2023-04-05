@@ -1,3 +1,7 @@
+/*
+ * File: 5-free_listint2.c
+ * Auth: Essien Anietie Lawrence
+ */
 #include "lists.h"
 
 /**
