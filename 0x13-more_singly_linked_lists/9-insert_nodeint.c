@@ -1,3 +1,7 @@
+/*
+ * File: 9-insert_nodeint.c
+ * Auth: Essien Anietie Lawrence
+ */
 #include "lists.h"
 
 /**
