@@ -1,8 +1,6 @@
 /*
  * File_name: 0-binary_to_uint.c
  * Auth: Essien, Anietie Lawrence
- * Project: alx-low_level_programming
- * Status: submitted.
  */
 
 #include "main.h"
