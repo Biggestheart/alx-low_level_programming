@@ -1,8 +1,3 @@
-/*
- * File_name: 0-binary_to_uint.c
- * Auth: Essien, Anietie Lawrence
- */
-
 #include "main.h"
 
 /**
